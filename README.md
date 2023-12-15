@@ -1,1 +1,1 @@
-A BIOS dump of some thinkpad bios roms.
+A collection of Thinkpad BIOS images.
